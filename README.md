@@ -1,4 +1,4 @@
-# learn-html
+# HTML COURSE & PROJECT
 
 ## Chapter 1: Introduction to HTML
     -What is HTML? Why do we need HTML?
